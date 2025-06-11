@@ -15,12 +15,23 @@ Cleaned and preprocessed the Pizza Runner dataset to fix null values, inconsiste
 
 #
 
-<img align="left" width="250" height="150" src="assets/bingo.png">**[#BI_NGO - Newborns left in hospitals](https://github.com/ElaWajdzik/Ongoing_Projects/tree/main/%23BI_NGO%20-%20Noworodki%20opuszczone%20przez%20rodzic%C3%B3w)**
+<img align="left" width="250" height="150" src="assets/bingo.png"> **[#BI_NGO - Newborns left in hospitals](https://github.com/ElaWajdzik/Ongoing_Projects/tree/main/%23BI_NGO%20-%20Noworodki%20opuszczone%20przez%20rodzic%C3%B3w)** 🇵🇱
 
 This project explores cases of newborns abandoned in hospitals, analyzing demographic, temporal, and regional trends. By identifying key patterns, it aims to support NGOs and policymakers in creating targeted interventions, improving social care systems, and preventing abandonment through data-driven solutions.
 
 #
 
+<img align="left" width="250" height="150" src="assets/miliarderzy.png"> **[The World’s Billionaires in 2025 - Data Collection and Analysis](https://github.com/ElaWajdzik/Ongoing_Projects/blob/main/Jupyter%20Notebook/Miliarderzy%20Forbes.ipynb)** 🇵🇱
+
+Collected and processed real-time data on billionaires from the Forbes API to explore global wealth distribution. Cleaned and organized a detailed dataset including net worth, origin, industry and other attributes. Used Python for data extraction and basic transformation, followed by [a detailed analysis](https://github.com/ElaWajdzik/Ongoing_Projects/blob/main/%2352wykresy2025/03%20-%20miliarderzy%20Forbes.md) presented through a variety of visual tools such as Datawrapper, Flourish, and Canva. This project provided structured insights into who the world’s billionaires are and where they come from.
+
+
+
+<!--
+<img align="left" width="250" height="150" src="assets/bingo.png">**[Clique Bait Online Store Analysis](https://github.com/ElaWajdzik/SQL_Challenge_Case_Study_6---Clique-Bait?tab=readme-ov-file#business-case)**
+
+This project examines customer behavior on the Clique Bait online seafood store, focusing on funnel fallout rates and campaign effectiveness. By analyzing user interactions across multiple datasets, it evaluates conversion rates and provides insights into product views, cart additions, and purchases, emphasizing the impact of marketing campaigns.
+-->
 
 <!--
 # Ongoing_Projects
