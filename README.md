@@ -9,6 +9,27 @@ This portfolio is a collection of data analysis and visualization projects that 
 
 ## Projects
 
+<img align="left" width="250" height="150" src="assets/pixar.png"> **[Pixar Movie Insights – Power BI Dashboard](https://github.com/ElaWajdzik/Ongoing_Projects/tree/main/Maven%20Pixar%20Challenge)**
+
+
+Created an interactive [Power BI dashboard](https://app.powerbi.com/view?r=eyJrIjoiNGQwZmMwZTAtNTk0OS00MjNjLWI4NDItOTg3N2NiYTI0MGQwIiwidCI6IjNkZmU5YWI2LTgxYmYtNDkxYy1iNjcwLTAxYzgyNGEwOWUxOSJ9) to explore Pixar’s 30-year journey through a data-driven lens. As part of the Maven challenge, this project combines storytelling with visual analysis, highlighting trends in ratings, box office, and release history.
+
+# 
+
+<img align="left" width="250" height="150" src="assets/miliarderzy.png"> **[The World’s Billionaires - Data Collection and Analysis](https://github.com/ElaWajdzik/Ongoing_Projects/blob/main/Jupyter%20Notebook/Miliarderzy%20Forbes.ipynb)** 🇵🇱
+
+
+Collected and processed real-time billionaire data from the Forbes API to explore global wealth patterns. Cleaned a dataset including net worth, origin, industry, and other attributes. Used Python for extraction and transformation, followed by [visual analysis](https://github.com/ElaWajdzik/Ongoing_Projects/blob/main/%2352wykresy2025/03%20-%20miliarderzy%20Forbes.md) using Datawrapper, Flourish, and Canva.
+
+# 
+
+<img align="left" width="250" height="150" src="assets/chart.png"> **[Polish Open Data - Chart Challenge](https://github.com/ElaWajdzik/Ongoing_Projects/blob/main/%2330DayChartChallenge/Week%201%20-%20Comparisons.md)** 🇵🇱
+
+
+Ongoing personal challenge exploring Polish open data through visualizations. Using tools like Datawrapper and Flourish, I turn complex topics like age of motherhood, infectious disease trends, or housing prices-into clear, engaging visuals. Shared regularly on LinkedIn as part of #30DayChartChallenge.
+
+# 
+
 <img align="left" width="250" height="150" src="assets/pizza_runner_claning_process.png"> **[Pizza Runner Database Cleaning Process](https://github.com/ElaWajdzik/SQL_Challenge_Case_Study_2---Pizza-Runner/blob/main/Cleaning%20Process%20and%20E.%20Bonus%20Questions.md#-database-cleaning-process)**
 
 Cleaned and preprocessed the Pizza Runner dataset to fix null values, inconsistent formats, and incorrect entries. Key steps: standardizing text, handling missing data, splitting comma-separated values, and correcting errors. This ensured a structured, high-quality dataset for accurate SQL analysis and insights into Pizza Runner’s operations.
@@ -19,11 +40,8 @@ Cleaned and preprocessed the Pizza Runner dataset to fix null values, inconsiste
 
 This project explores cases of newborns abandoned in hospitals, analyzing demographic, temporal, and regional trends. By identifying key patterns, it aims to support NGOs and policymakers in creating targeted interventions, improving social care systems, and preventing abandonment through data-driven solutions.
 
-#
 
-<img align="left" width="250" height="150" src="assets/miliarderzy.png"> **[The World’s Billionaires in 2025 - Data Collection and Analysis](https://github.com/ElaWajdzik/Ongoing_Projects/blob/main/Jupyter%20Notebook/Miliarderzy%20Forbes.ipynb)** 🇵🇱
 
-Collected and processed real-time data on billionaires from the Forbes API to explore global wealth distribution. Cleaned and organized a detailed dataset including net worth, origin, industry and other attributes. Used Python for data extraction and basic transformation, followed by [a detailed analysis](https://github.com/ElaWajdzik/Ongoing_Projects/blob/main/%2352wykresy2025/03%20-%20miliarderzy%20Forbes.md) presented through a variety of visual tools such as Datawrapper, Flourish, and Canva. This project provided structured insights into who the world’s billionaires are and where they come from.
 
 
 
