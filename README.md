@@ -9,6 +9,13 @@ This portfolio is a collection of data analysis and visualization projects that 
 
 ## Projects
 
+<img align="left" width="250" height="150" src="assets/pizza_runner_claning_process.png"> **[Pizza Runner Database Cleaning Process](https://github.com/ElaWajdzik/SQL_Challenge_Case_Study_2---Pizza-Runner/blob/main/Cleaning%20Process%20and%20E.%20Bonus%20Questions.md#-database-cleaning-process)**
+
+Cleaned and preprocessed the Pizza Runner dataset to fix null values, inconsistent formats, and incorrect entries. Key steps: standardizing text, handling missing data, splitting comma-separated values, and correcting errors. This ensured a structured, high-quality dataset for accurate SQL analysis and insights into Pizza Runner’s operations.
+<br> 
+
+#
+
 <img align="left" width="250" height="150" src="assets/pixar.png"> **[Pixar Movie Insights – Power BI Dashboard](https://github.com/ElaWajdzik/Ongoing_Projects/tree/main/Maven%20Pixar%20Challenge)**
 
 
@@ -31,12 +38,7 @@ Ongoing personal challenge exploring Polish open data through visualizations. Us
 <br> <br>
 # 
 
-<img align="left" width="250" height="150" src="assets/pizza_runner_claning_process.png"> **[Pizza Runner Database Cleaning Process](https://github.com/ElaWajdzik/SQL_Challenge_Case_Study_2---Pizza-Runner/blob/main/Cleaning%20Process%20and%20E.%20Bonus%20Questions.md#-database-cleaning-process)**
 
-Cleaned and preprocessed the Pizza Runner dataset to fix null values, inconsistent formats, and incorrect entries. Key steps: standardizing text, handling missing data, splitting comma-separated values, and correcting errors. This ensured a structured, high-quality dataset for accurate SQL analysis and insights into Pizza Runner’s operations.
-<br> <br>
-
-#
 
 <img align="left" width="250" height="150" src="assets/bingo.png"> **[#BI_NGO - Newborns left in hospitals](https://github.com/ElaWajdzik/Ongoing_Projects/tree/main/%23BI_NGO%20-%20Noworodki%20opuszczone%20przez%20rodzic%C3%B3w)** 🇵🇱
 
